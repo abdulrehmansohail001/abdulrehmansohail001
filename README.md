@@ -1,5 +1,7 @@
 I am a BS Computer Science student passionate about full-stack development, problem-solving, and software engineering.
 
+⚡ **Workflow Optimization:** Built a rapid asset pipeline that leverages AI vision models, automated sprite sheet cutting tools, and custom PowerShell scripting to refactor desktop Shimeji behavior engines in under 5 minutes.
+
 ### 💻 Tech Stack
 
 #### 🚀 Frontend & Design
