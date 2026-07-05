@@ -16,6 +16,12 @@ I am a BS Computer Science student passionate about full-stack development, prob
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
+#### 🔧 Low-Level Programming
+![NASM](https://img.shields.io/badge/NASM-0091BD?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-654FF0?style=for-the-badge&logo=intel&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![VGA](https://img.shields.io/badge/VGA_Mode_13h-4B0082?style=for-the-badge&logo=windowsterminal&logoColor=white)
+
 #### 🗄️ Databases & Cloud
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
