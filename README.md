@@ -23,6 +23,13 @@ I am a BS Computer Science student passionate about full-stack development, prob
 
 ## 🌐 Socials
 
+### 🗄️ Databases & Cloud
+![SQL](https://shields.io)
+![MongoDB](https://shields.io)
+![Cloudinary](https://shields.io)
+
+## 🌐 Socials
+
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/abdul-rehman-sohail-2060123a9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://shields.io)](https://www.instagram.com/your.friend._.steve?igsh=NDZieWQ1ZWE4aWps)
 [![Email](https://shields.io)](mailto:ab.notjudged@gmail.com)
