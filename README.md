@@ -22,6 +22,12 @@ I am a BS Computer Science student passionate about full-stack development, prob
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![VGA](https://img.shields.io/badge/VGA_Mode_13h-4B0082?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
+#### 🛠️ DevOps & Version Control
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Vercel](https://shields.io)
+![Railway](https://shields.io)
+
 #### 🗄️ Databases & Cloud
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
