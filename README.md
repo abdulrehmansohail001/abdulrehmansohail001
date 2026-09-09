@@ -4,14 +4,6 @@ I am a BS Computer Science student passionate about full-stack development, prob
 
 ⚡ **Workflow Optimization:** Built a rapid asset pipeline that leverages AI vision models, automated sprite sheet cutting tools, and custom PowerShell scripting to refactor desktop Shimeji behavior engines in under 5 minutes.
 
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abdulrehmansohail001 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=abdulrehmansohail001 &theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrehmansohail001 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=abdulrehmansohail001 &icon=0&color=0)
 
 ### 💻 Tech Stack
 
@@ -43,6 +35,18 @@ I am a BS Computer Science student passionate about full-stack development, prob
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abdulrehmansohail001 &theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehmansohail001 &theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
